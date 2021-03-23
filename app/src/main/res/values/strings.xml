@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">temperature converter</string>
+    <string name="temperature_convert">溫度轉換</string>
+    <string name="editText_temperature">請輸入華氏溫度</string>
+    <string name="convert_button">轉換</string>
+    <string name="temperature_image">temperature image</string>
+    <string name="output_temperature">輸出攝氏溫度</string>
+</resources>

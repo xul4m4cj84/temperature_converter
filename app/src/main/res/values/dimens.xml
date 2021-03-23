@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_margin">30dp</dimen>
+    <dimen name="layout_margin__top">50dp</dimen>
+    <dimen name="layout_margin_pixel">150dp</dimen>
+</resources>
